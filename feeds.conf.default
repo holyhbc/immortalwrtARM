@@ -1,5 +1,5 @@
 
-src-git packages https://github.com/padavanonly/packages.git;openwrt-18.06
+src-git packages https://github.com/immortalwrt/packages.git;openwrt-18.06
 src-git luci https://github.com/padavanonly/luci.git;openwrt-18.06-k5.4
 #src-git packages https://github.com/holyhbc/packages.git;openwrt-18.06
 #src-git luci https://github.com/holyhbc/luci.git;openwrt-18.06-k5.4
